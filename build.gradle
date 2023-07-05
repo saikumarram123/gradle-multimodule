@@ -13,7 +13,7 @@ allprojects {
 
 sonar {
     properties {
-        property "sonar.projectName", "Multimodule"
+        property "sonar.projectName", "multimodule"
         property "sonar.projectKey", "multimodule"
     }
 }
