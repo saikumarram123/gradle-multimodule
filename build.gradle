@@ -13,8 +13,8 @@ allprojects {
 
 sonar {
     properties {
-        property "sonar.projectName", "gradle-multimodule"
-        property "sonar.projectKey", "gradle-multimodule"
+        property "sonar.projectName", "Example of Sonar Scanner for Gradle - Multimodule"
+        property "sonar.projectKey", "org.sonarqube:gradle-multimodule"
     }
 }
 
